@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://lasolasrealtymgmt.com/</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://lasolasrealtymgmt.com/assets/home.jpg</image:loc>
+      <image:title>Executive home with turret entry, Miramar FL 33027</image:title></image:image>
+    <image:image><image:loc>https://lasolasrealtymgmt.com/assets/elevator.jpg</image:loc>
+      <image:title>Private residential elevator</image:title></image:image>
+    <image:image><image:loc>https://lasolasrealtymgmt.com/assets/kitchen.jpg</image:loc>
+      <image:title>Open chef's kitchen with gas range</image:title></image:image>
+    <image:image><image:loc>https://lasolasrealtymgmt.com/assets/exterior.jpg</image:loc>
+      <image:title>Three-car garage and paver driveway</image:title></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://lasolasrealtymgmt.com/assets/life-poster.jpg</video:thumbnail_loc>
+      <video:title>Life in South Florida — 14061 SW 54th St, Miramar</video:title>
+      <video:description>Lifestyle reel for an executive home with a private elevator in Miramar, Florida.</video:description>
+      <video:content_loc>https://lasolasrealtymgmt.com/assets/life.mp4</video:content_loc>
+    </video:video>
+  </url>
+</urlset>
